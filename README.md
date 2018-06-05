@@ -1,0 +1,2 @@
+# anki_card_template
+anki_card_template
