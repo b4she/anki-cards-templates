@@ -1,0 +1,1 @@
+"C:\Program Files\Anki\anki.exe" -b "D:\anki2"
